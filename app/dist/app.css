@@ -4688,7 +4688,7 @@ screen and (max-height: 300px) {
 }
 
 .touch__main {
-    background: #191E4F;
+    background: #1e011a;
     backdrop-filter: blur(2px);
     border-radius: 16px;
     overflow: hidden;
