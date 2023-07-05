@@ -1564,7 +1564,8 @@ a {
 
 @media only screen and (max-width: 767px) {
   .banner .banner__right .image {
-    width: 100%;
+    width: 350px;
+    height: 400px;
   }
 }
 
@@ -3108,7 +3109,8 @@ img.mfp-img {
     display: none;
   }
   .about .about__right .images .img1 {
-    width: 100%;
+    width: 350px;
+    height: 400px;
   }
   .about .about__right .images .img2 {
     left: -15px;
